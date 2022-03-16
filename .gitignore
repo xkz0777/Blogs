@@ -1,0 +1,6 @@
+**/.*
+/hexo-renderer-markdown-it/
+/public
+**/node_modules
+/db.json
+!**/.gitignore
